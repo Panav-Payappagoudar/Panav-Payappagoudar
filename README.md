@@ -6,6 +6,7 @@
 
 # 🚀 **Panav Payappagoudar**
 🎓 B.Tech CSE @ VIT-AP (’28)  
+💼 **Certified Six Sigma White Belt (CSSC)**  
 💻 Software Developer | 🤖 AI/ML | 🔐 Cybersecurity | ☁️ Cloud | 🏆 Hackathon Finalist  
 
 <p>
@@ -18,7 +19,9 @@
 ---
 
 ## 🔥 Core Expertise
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="33%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
@@ -37,6 +40,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
