@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://placehold.co/1200x350/0D1117/7C3AED?text=Panav+Payappagoudar+⚡+AI%2FML+|+Cybersecurity+|+Web3" alt="Panav Banner"/>
+  <img src="https://placehold.co/1200x350/0D1117/7C3AED?text=Panav%20Payappagoudar%20%E2%9A%A1%20AI%2FML%20%7C%20Cybersecurity%20%7C%20Web3" alt="Panav Payappagoudar — AI/ML | Cybersecurity | Web3"/>
 </p>
+
 
 <div align="center">
 
