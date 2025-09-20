@@ -123,9 +123,11 @@ Hotel booking platform (Django + DRF)
 ---
 
 ## 💼 Experience
-- **IBM SkillsBuild AI & Cloud Intern** — built POCs on hybrid AI infra.  
+- **IBM SkillsBuild AI & Cloud Intern** — built POCs on hybrid AI infrastructure.  
 - **GSSoC ’25 Contributor** — merged PRs into open-source repos, mentored newcomers.  
 - **Microsoft Hackathon (Top 2%)** — led team delivering AI-powered product under tight deadlines.  
+- **Machine Learning Club — Deep Learning & Computer Vision Team Member (VIT-AP, 2025–Present)** — developed CV/ML prototypes, ran experiments, and mentored peers.  
+- **VIOS — Data Analyst Intern** — performed data cleaning, exploratory data analysis, dashboarding, and built reproducible data pipelines/reports to support decision-making.  
 
 ---
 
