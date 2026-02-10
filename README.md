@@ -492,4 +492,4 @@ class PanavTheCat:
 
 ---
 
-*© 2025 
+*© Panav Payappagoudar 2026
