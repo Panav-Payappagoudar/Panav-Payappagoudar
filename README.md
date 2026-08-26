@@ -15,7 +15,7 @@
     passions: ["☕ Coffee", "🧠 AI Research", "🔐 Security", "🐱 Cats"],
     currentlyBuilding: ["🤖 Human-Following Robot", "🎨 The Essentialist"],
     motto: "🎯 Purr-fection through innovation",
-    status: "🟢 Available for Summer 2026 internships!"
+    status: "🟢 Available for Summer 2027 internships!"
 };
 ```
 
