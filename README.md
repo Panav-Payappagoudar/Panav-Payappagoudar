@@ -6,7 +6,7 @@
 
 ## Selected Achievements
 
-- **Amazon ML Summer School ’26:** Selected participant.
+- **Amazon ML Summer School ’26:** Selected Fellow.
 - **Hackathon milestones:** 2× Hackathon Winner · 11× Finalist · 2× Runner-up.
 - **IIT Bombay Techfest:** Double finalist (Aarohan & AWS ImpactX), competing among top engineering talent to architect scalable cloud solutions.
 - **Microsoft Triwizardathon:** Led SecureX to the **Top 2% (23/1,290 teams)** — a decentralized document system using IPFS, Ethereum, and LLM-based Q&A.
